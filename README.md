@@ -1,2 +1,2 @@
 # Example
-Example repository.
+Example repository description.
